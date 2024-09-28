@@ -1,0 +1,22 @@
+* {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    text-align: center;
+}
+
+body {
+    background-color: rgb(98, 134, 98);
+}
+
+#principal {
+    margin-top: 36px;
+    padding: 20px 0px;
+    background-color: rgb(117, 90, 151);
+    color: rgb(98, 134, 98);
+}
+
+.icone {
+    margin-left: 4px;
+    width: 70px;
+}
